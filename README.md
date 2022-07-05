@@ -6,24 +6,24 @@ I believe that my main soft skills are active listening, critical thinking, mult
 
 Currently I'm looking for a front end remote position.
 
-My stack of technologies includes:
--Git
-Front-End:
--React
--Redux
--Bootstrap
--CSS
--Typescript
+My stack of technologies includes:  
+-Git  
+Front-End:  
+-React  
+-Redux  
+-Bootstrap  
+-CSS  
+-Typescript  
 
-Back-End:
--Express
--Node.js
--Sequelize
--PostgreSQL
--Typescript
--Auth0
+Back-End:  
+-Express  
+-Node.js  
+-Sequelize  
+-PostgreSQL  
+-Typescript  
+-Auth0  
 
-Want to know more about me? Contact me on:
-email: ignaciodebortoli@outlook.com
-phone: (+54) 2396-612354 \n
+Want to know more about me? Contact me on:  
+email: ignaciodebortoli@outlook.com  
+phone: (+54) 2396-612354  
 linkedin: https://www.linkedin.com/in/ignaciodebortoli/
