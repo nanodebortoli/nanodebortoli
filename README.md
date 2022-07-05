@@ -25,5 +25,5 @@ Back-End:
 
 Want to know more about me? Contact me on:
 email: ignaciodebortoli@outlook.com
-phone: (+54) 2396-612354
+phone: (+54) 2396-612354 \n
 linkedin: https://www.linkedin.com/in/ignaciodebortoli/
